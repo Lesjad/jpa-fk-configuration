@@ -14,6 +14,7 @@
     <name>stack-entity-v1</name>
     <description>stack-entity-v1</description>
     <properties>
+        <test.property>test</test.property>
         <java.version>17</java.version>
     </properties>
     <dependencies>
